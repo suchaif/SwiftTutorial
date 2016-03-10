@@ -4,7 +4,9 @@ https://www.hackingwithswift.com/
 # OOP
 https://www.raywenderlich.com/81952/intro-object-oriented-design-swift-part-1
 https://www.weheartswift.com/object-oriented-programming-swift/
-- บทความอธิบายหลักการของ OOP
+
+บทความอธิบายหลักการของ OOP
+
 Inheritance - https://medium.com/@has606/oop-inheritance-306b27103efe#.jc0zgtz9q
 Encapsulation - https://medium.com/@has606/encapsulation-f3bb0e360836#.ejhzo3oc9
 Polymorphism - https://medium.com/@has606/oop-polymorphism-bf93eea93ddc#.ybkvm2eie
