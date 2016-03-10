@@ -2,7 +2,9 @@
 https://www.hackingwithswift.com/
 
 # OOP
+- Basic OOP
 https://www.raywenderlich.com/81952/intro-object-oriented-design-swift-part-1
+- Basic OOP
 https://www.weheartswift.com/object-oriented-programming-swift/
 
 บทความอธิบายหลักการของ OOP
