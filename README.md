@@ -30,4 +30,5 @@ https://www.raywenderlich.com/6475/basic-security-in-ios-5-tutorial-part-1
 https://agilebits.com/onepassword
 - Keychain (HackingwithSwift)
 https://www.hackingwithswift.com/read/28/3/writing-somewhere-safe-the-ios-keychain
-
+- Apple's Security
+https://www.apple.com/business/docs/iOS_Security_Guide.pdf
